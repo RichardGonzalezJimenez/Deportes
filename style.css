@@ -1,20 +1,26 @@
 .center{
 
     text-align: center;
-    color: rgb(255, 1, 1);
+    color: rgb(255, 255, 255);
 
+}
+
+p{
+    margin: 40px;
+    border: 2px solid white;
+    padding: 30px;
 }
 
 body {
 
     text-align: center;
-    background-color: rgb(113, 185, 226);
+    background-color: rgb(37, 76, 99);
 
 }
 
 #futbol{
 
-    color: rgb(255, 0, 0);
+    color: rgb(248, 248, 248);
 
 }
 
@@ -26,10 +32,19 @@ body {
 
 h2{
     color: rgb(0, 0, 0);
+    margin: 40px;
+    border: 2px solid white;
+    padding: 30px;
+
+    
 
 }
+
+img{
+    width: 300px;
+}
 img:hover{
-    width:250px;
+    width:280px;
 }
 a:hover{
     color: rgb(139, 0, 97);
