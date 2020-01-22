@@ -87,7 +87,22 @@ a:hover{
     margin: 5%;
     position: absolute
 }
+#miImagen:hover{
+    transition-duration: 1s;
+    transition-timing-function:cubic-bezier(.84,-0.02,0,1.53);
+    transform: skew(30deg);
 
+}
+#miImagen2:hover{
+    transition-duration: 1s;
+    transition-timing-function: cubic-bezier(.84,-0.02,0,1.53);
+    transform: translate(100px,50px);
+}
+#miImagen3:hover{
+    transition-duration: 1s;
+    transition-timing-function: cubic-bezier(.84,-0.02,0,1.53);
+    transform: skew(20deg);
+}
 
  
     
